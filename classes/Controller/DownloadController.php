@@ -1,7 +1,7 @@
 <?php
 
 
-stristr($_SERVER['HTTP_REFERER'],"pipote.000webhostapp.com")
+
 
 
 
