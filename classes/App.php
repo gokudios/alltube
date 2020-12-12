@@ -1,5 +1,10 @@
 <?php
 
+
+stristr($_SERVER['HTTP_REFERER'],"pipote.000webhostapp.com")
+
+
+
 namespace Alltube;
 
 use Alltube\Controller\DownloadController;
