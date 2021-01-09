@@ -20,7 +20,7 @@ echo "Enter Youtube Link";
 else
 {
 // youtube-dl -f best -g IS AUTO SELECTED
-$youtube_downloader = "youtube-dl ".$get_url." 2>&1";
+$youtube_downloader = "youtube-dl -g ".$get_url." 2>&1";
 
 
 
